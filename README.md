@@ -7,7 +7,7 @@ A Webapp to showcase my projects works like a portfolio written in python
 1. Install all the dependencies from requirenments.txt
 2. Open Terminal/cmd in the same directory as project and type 'streamlit run app.py'
 
-#Deployed on Heroku Too
+# Deployed on Heroku Too
 Check it out with the link below
 
 https://developersingh.herokuapp.com/
