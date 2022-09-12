@@ -1,2 +1,8 @@
 # Streamlit_Portfolio
-Webapp written in python with streamlit library
+A Webapp to showcase my projects works like a portfolio written in python 
+
+![Preview](images/Home.PNG)
+
+# How To run
+1. Install all the dependencies from requirenments.txt
+2. Open Terminal/cmd in the same directory as project and type 'streamlit run app.py'
