@@ -1,7 +1,7 @@
 # Streamlit_Portfolio
 A Webapp to showcase my projects works like a portfolio written in python 
 
-![Preview](images/Home.PNG)
+![Preview](images/strm_por.gif)
 
 # How To run
 1. Install all the dependencies from requirenments.txt
